@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: rgba(1, 48, 149, 0.685);
+}
+.text {
+    text-align: center;
+}
+.block {
+    height: 250px;
+    width: 250px;
+    background: rgba(255, 31, 31, 0.698);
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+}
